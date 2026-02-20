@@ -1,10 +1,10 @@
-==================================== 🏆 NEXUSARC Interactive Suite ====================================
+        ==================== 🏆 NEXUSARC Interactive Suite ====================
 
 Ultimate CLI-Based Multi-System Python Platform
 
 A Professional Command-Line Interactive System combining Gaming, User Management, Admin Control, Encryption & Library Management in one unified platform.
 
-=========================================== 🛠 Built With: ===========================================
+        =========================== 🛠 Built With: ===========================
 
 🐍 Python 3
 
@@ -18,7 +18,7 @@ A Professional Command-Line Interactive System combining Gaming, User Management
 
 🖥 OS File Handling
 
-========================================== 🚀 Core Features: ==========================================
+        ========================= 🚀 Core Features: ========================= 
 
 👤 User Account System
 
@@ -76,7 +76,7 @@ System stores Recent Matches and Display it on Profile for performance tracking.
 
 Automatically calculates win percentage for performance analysis.
 
-===================================== 🎮 Multi-Game Hub: =====================================
+        ========================= 🎮 Multi-Game Hub: ========================= 
 
 🧠 Includes 5 Interactive Games:
 
@@ -117,8 +117,7 @@ Automatically calculates win percentage for performance analysis.
     • Total Games Played
     • Total Points Earned
 
-📚 Library Management System:
-
+        ======================== 📚 Library Management System =======================
 📖 Add Book
 
 🗑 Delete Book
@@ -147,7 +146,7 @@ Automatically calculates win percentage for performance analysis.
 
 ✔ Admin Authentication System
 
-===================================== 📈 Project Level =====================================
+        ========================== 📈 Project Level ==========================
 
 ⭐ Intermediate Python CLI Application
 
